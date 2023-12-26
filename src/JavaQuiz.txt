@@ -1,0 +1,28 @@
+The visibility modifier that makes a data field/method visible only within this class and any class in the same package:
+protected
+public
+(blank) default
+private
+private
+
+An abstract class can be used just like a nonabstract class except that you cannot use the new operator to create an instance from the abstract class.{true, false}
+true
+false
+true
+
+An abstract class can be extended.{true, false}
+true
+false
+true
+
+A subclass of a nonabstract superclass cannot be abstract.{true, false}
+true
+false
+false
+
+Which one is FALSE about Java Object class?
+It has the toString method implemented
+It is an abstract class
+A new instance of Object can be created
+Any class in Java is the child of Object
+It is an abstract class

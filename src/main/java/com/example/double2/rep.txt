@@ -1,0 +1,10 @@
+AsCii 8 byte 256 Charackter (1 byte only english)
+
+Utf 8- 8,16,24,32 byte (1 char 1 byte , english 1 byte others 2 byte)
+Utf-32- 32 (4 byte every)
+Utf-16: 16,32
+
+
+
+ipV4: 4 byte: 123.45.67.89
+ipV6: 128 bit, 15 byte
